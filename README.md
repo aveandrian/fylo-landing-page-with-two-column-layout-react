@@ -19,4 +19,4 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![image](https://github.com/aveandrian/fylo-landing-page-with-two-column-layout-react/assets/13519212/4a622f13-68e6-4622-b477-1ef78ed951cc)
